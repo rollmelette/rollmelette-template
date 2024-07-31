@@ -3,8 +3,7 @@ package main
 import (
 	"context"
 	"log/slog"
-
-	"github.com/gligneul/rollmelette"
+	"github.com/rollmelette/rollmelette"
 )
 
 type MyApplication struct{}
